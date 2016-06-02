@@ -1,0 +1,14 @@
+
+@echo off
+
+Title Calculadora
+
+Color 2
+
+cls
+
+echo Abrindo a calculadora
+
+start calc.exe
+
+pause
